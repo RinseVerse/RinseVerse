@@ -111,5 +111,5 @@ My NCL Scouting Reports for the Spring 2026 season.
 <h2>Final Reflection</h2>
 
 <p>
-My CTF experience with NCL was a fantastic confidence-building exercise that exposed me to areas of cybersecurity that I hadn't yet delved into. The most important lesson I learned was that initial roadblocks and failure are a part of the process and that the perseverance to investigate, research, and test is just as important as technical knowledge in a field where one can't know everything.
+My CTF experience with NCL was a fantastic confidence-building exercise that exposed me to areas of cybersecurity that I hadn't yet delved into. In a field where one couldn't possibly know everything, it was humbling but also galvanizing to learn that the perseverance to investigate, research, and test is just as important as the technical knowledge. 
 </p>
